@@ -71,4 +71,3 @@ For questions or support, please open an issue in this repository.
 
 ---
 
-*This README was generated as a template. Please update it with details specific to your project for better clarity and usefulness.*
